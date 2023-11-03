@@ -1,4 +1,3 @@
-[![MasterHead]([https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/253385070/original/d54cfa0a0243d96ab0afb2e3bccd064d915539ba/front-end-web-developer-with-html-css-react-and-next-js.jpg])(https://github.com/nikhiltomar2690)
 <h1 align="center">Hi 👋, I'm Nikhil Tomar</h1>
 <h3 align="center">A passionate Frontend developer from India 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
