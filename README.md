@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Sneaker Store<br><br>🌱 I’m currently learning NextJS<br><br>💬 Ask me about MERN Stack , DSA<br><br>📫 How to reach me nikhiltomar2690@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1mPP1yA3GvkBkyd4ah561GwwzBR-YDD7a/view?usp=sharing
 
-[![John](https://devsunite.com/api/badge/aXMw7gQ0dKXc8fhg6KrSQiIX9rc2)](https://devsunite.com/u/nikhil)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-tomar-686a3921b/) 
 
